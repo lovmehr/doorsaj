@@ -1,0 +1,29 @@
+header {
+  border-bottom: 1px solid rgba(241, 90, 34, 0.26);
+  background: #fff;
+}
+.about-us-img {
+  height: 710px;
+  flex-shrink: 0;
+  aspect-ratio: 308/355;
+}
+.img-overlap {
+  position: relative;
+  z-index: 1;
+}
+.img-overlap img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+footer {
+  position: relative;
+  z-index: 2;
+}
+.img-under-footer {
+  position: absolute;
+  bottom: -30px;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}

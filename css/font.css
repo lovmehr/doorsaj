@@ -1,0 +1,26 @@
+body,
+* {
+  font-family: AbarLow;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: AbarLow;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/AbarLow-Regular.woff") format("woff"),
+    url("../fonts/AbarLow-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: AbarLow;
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/AbarLow-ExtraBold.woff") format("woff"),
+    url("../fonts/AbarLow-ExtraBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: AbarLow;
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/AbarLow-Black.woff") format("woff"),
+    url("../fonts/AbarLow-Black.woff2") format("woff2");
+}

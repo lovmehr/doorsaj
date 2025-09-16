@@ -1,0 +1,128 @@
+@media (min-width: 992px) {
+  .px-lg-7 {
+    padding-left: 5rem !important;
+    padding-right: 5rem !important;
+  }
+  /* .mt-lg-90 {
+    margin-top: 90px !important;
+  } */
+}
+@media (max-width: 992px) {
+  .border-buttom-custom {
+    border-bottom: none !important;
+  }
+  .svg-custom {
+    width: 150px !important;
+    height: 150px !important;
+  }
+}
+.gradient-custom {
+  background: radial-gradient(
+    94.62% 90.08% at 50% 50%,
+    #f15a22 0%,
+    #8b2703 100%
+  );
+}
+.svg-custom {
+  width: 250px;
+  height: 250px;
+}
+.svg-sm {
+  width: 45px;
+  height: 45px;
+}
+a {
+  text-decoration: none;
+}
+.fs-7 {
+  font-size: 15px;
+}
+.fs-8 {
+  font-size: 14px;
+}
+.fs-9 {
+  font-size: 13px;
+}
+.fw-850 {
+  font-weight: 850;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.fw-600 {
+  font-weight: 600;
+}
+.fw-550 {
+  font-weight: 550;
+}
+.text-orange {
+  color: #f15a22;
+}
+.bg-orange {
+  background-color: #f15a22;
+}
+
+.text-light-custom {
+  color: #9f9f9f;
+}
+.rounded-10 {
+  border-radius: 10px;
+}
+.rounded-11 {
+  border-radius: 11px;
+}
+.rounded-20 {
+  border-radius: 20px;
+}
+.mt-150 {
+  margin-top: 150px;
+}
+.mt-100 {
+  margin-top: 100px;
+}
+.mb-100 {
+  margin-bottom: 100px;
+}
+.mt-90 {
+  margin-top: 90px;
+}
+.mb-90 {
+  margin-bottom: 90px;
+}
+.mt-lg-60 {
+  margin-top: 60px;
+}
+.px-lg-7 {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+.lh-custom {
+  line-height: 46px;
+}
+.custom-right-col {
+  margin-right: -100px; /* یا کمتر/بیشتر بسته به نیاز */
+}
+.border-buttom-custom {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.active-menu {
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 41.82%,
+      rgba(255, 255, 255, 0.7) 76.05%
+    ),
+    #bababa;
+  padding-top: 1.2rem !important;
+  padding-bottom: 1.2rem !important;
+  /* transform: scale(1.1); */
+}
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 0.15s;
+}
+.active {
+  color: black;
+  font-weight: 900;
+}
