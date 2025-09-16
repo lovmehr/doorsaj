@@ -1,5 +1,5 @@
-@import url("../css/_home.css");
-@import url("../css/_contact.css");
+@import url("_home.css");
+@import url("_contact.css");
 @media screen and (max-width: 992px) {
   .btn {
     font-size: 15px !important;
@@ -270,3 +270,4 @@ footer {
 footer a img:hover {
   transform: scale(1.1);
 }
+
