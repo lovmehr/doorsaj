@@ -1,4 +1,4 @@
-# Doorsaj website
+## Doorsaj website
 this is a front-end project.
 Doorsaj is a store and this website contains products of it.
 the purpose of this project is to show a responsive business website.
@@ -20,4 +20,5 @@ https://github.com/lovmehr/doorsaj.git
 -demo ver
 https://lovmehr.github.io/doorsaj/
 
-<img width="3024" height="1646" alt="9f16bbfe-3c22-40a2-b4b3-803d11ae431c" src="https://github.com/user-attachments/assets/c3c6d951-f9e0-416f-a23f-aa4e4a86af49" />
+<img width="3024" height="1646" alt="pic" src="https://github.com/user-attachments/assets/ac3876c7-35df-492b-a6f0-c46ac7c400d8" />
+
